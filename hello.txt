@@ -4,5 +4,6 @@ hello,git3
 hello,git4
 hello,git6
 hello,git7
+<<<<<<< HEAD
 hello,git8 this is master modify
-this.is hot fix
+hello,git8 hot-fix modified
